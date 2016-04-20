@@ -1,0 +1,10 @@
+{
+  "name": "node-react",
+  "description": "A Node.js app using Express 4 + React",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "static", "react", "webpack", "mongodb"],
+  "addons" : [
+  	"mongohq"
+  ]
+}
